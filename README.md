@@ -10,29 +10,7 @@
 
 ---
 
-## 🎯 About Me
-
-```javascript
-const walid = {
-    currentRole: "Software Engineer @ EMSI",
-    nextGoal: "AI/Data Science Specialization (2nd Semester)",
-    motto: "Work smart not hard",
-    location: "Morocco 🇲🇦",
-    interests: ["Coding", "Gaming", "Traveling", "AI/ML"],
-    funFact: "I love exploring my beautiful country with family!"
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-### 🌟 What I Do
-- 🔭 Building innovative web applications
-- 🌱 Learning AI/Data Science for future specialization
-- 💡 Creating solutions that make a difference
-- 🎮 Gaming in my free time
-- ✈️ Exploring Morocco's beautiful landscapes
-
----
+Walid-Ysn
 
 ## 🛠️ Tech Stack
 
