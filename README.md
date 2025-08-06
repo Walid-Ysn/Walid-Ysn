@@ -10,7 +10,39 @@
 
 ---
 
-Walid-Ysn
+## 🎯 About Me
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Software+Engineer+%40+EMSI;AI%2FData+Science+Enthusiast;Work+Smart+Not+Hard!" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀%20Current%20Role-Software%20Engineer%20@%20EMSI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓%20Next%20Goal-AI%2FData%20Science%20Specialization-green?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🇲🇦%20Location-Morocco-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡%20Motto-Work%20Smart%20Not%20Hard-yellow?style=for-the-badge" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+### 🌟 What I Do
+- 🔭 Building innovative web applications
+- 🌱 Learning AI/Data Science for future specialization
+- 💡 Creating solutions that make a difference
+- 🎮 Gaming in my free time
+- ✈️ Exploring Morocco's beautiful landscapes
+
+**🎯 Interests:** Coding • Gaming • Traveling • AI/ML  
+**🌟 Fun Fact:** I love exploring my beautiful country with family!
+
+---
 
 ## 🛠️ Tech Stack
 
