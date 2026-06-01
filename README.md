@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀%20Current%20Role-Student%%20Data%20Science%20And%20AI%20@%20EMSI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Current%20Role-Student%20Data%20Science%20And%20AI%20@%20EMSI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎓%20Next%20Goal-AI%2FData%20Analyst-green?style=for-the-badge" />
 </div>
 
