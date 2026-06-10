@@ -105,16 +105,24 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Data & Learning Dashboard
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Walid-Ysn&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walid-Ysn&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Walid-Ysn&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📈 Data Analysis</h3>
+      <p>Learning how to clean, explore, visualize, and interpret data to support better decisions.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI & ML</h3>
+      <p>Building a strong foundation in machine learning, intelligent systems, and practical AI workflows.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Development</h3>
+      <p>Using coding and web development skills to turn data ideas into useful, interactive projects.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Analysis-3B82F6?style=for-the-badge" />
