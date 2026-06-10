@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Walid+Yassine;Software+Engineer+%7C+AI+Enthusiast;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=760&height=70&duration=4000&lines=Hi+There!+👋;I'm+Walid+Yassine;Data+Science+%26+AI+Student;Future+Data+Analyst;" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer | AI/Data Science Enthusiast | "Work Smart Not Hard" 💡</h3>
+<h3 align="center">📊 Data Science & AI Student | Future Data Analyst | "Work Smart Not Hard" 💡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Walid-Ysn&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -28,13 +28,13 @@
 
 ### 👋 Welcome to my digital space
 
-- 🔭 Building innovative web applications with clean, scalable architecture
-- 🌱 Learning AI/Data Science and sharpening full-stack development skills
-- 🤖 Exploring machine learning, intelligent systems, and automation
-- 💡 Creating practical solutions that make everyday work smarter
+- 📊 Specializing in Data Science and Artificial Intelligence
+- 🌱 Building my career path toward becoming a Data Analyst
+- 🤖 Exploring machine learning, data analysis, intelligent systems, and automation
+- 💻 Using software and web development skills to build practical data-driven solutions
 - 🎮 Gaming, traveling, and discovering Morocco's beautiful landscapes
 
-**🎯 Interests:** Coding • Gaming • Traveling • AI/ML  
+**🎯 Interests:** Data Analysis • AI/ML • Coding • Gaming • Traveling  
 **🌟 Fun Fact:** I love exploring my beautiful country with family!
 
 </div>
@@ -43,7 +43,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Current%20Role-Student%20Data%20Science%20%26%20AI%20@%20EMSI-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next%20Goal-AI%2FData%20Analyst-00C9A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Career%20Goal-Data%20Analyst-00C9A7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Motto-Work%20Smart%20Not%20Hard-F59E0B?style=for-the-badge" />
 </div>
 
@@ -113,24 +113,26 @@
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Walid-Ysn&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=Walid-Ysn&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Walid-Ysn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passion-AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-00C9A7?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Preparing+for+AI%2FData+Science+Specialization;Building+Modern+Full-Stack+Applications;Learning+New+Technologies+Daily;Turning+Ideas+Into+Useful+Products;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=780&height=50&duration=3500&lines=Specializing+in+Data+Science+%26+AI;Building+My+Path+Toward+Data+Analysis;Learning+Machine+Learning+%26+Analytics;Turning+Data+Into+Useful+Insights;" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-In%20Progress-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-Leveling%20Up-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Career%20Goal-3B82F6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20Source-Learning%20%26%20Contributing-00C9A7?style=for-the-badge" />
 </p>
 
