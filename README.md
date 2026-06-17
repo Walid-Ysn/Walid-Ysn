@@ -165,20 +165,7 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 
 <div align="center">
 
-### AWS
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data%20Analytics%20with%20Python-6366F1?style=for-the-badge&logo=python&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+### Under construction🏗️🚧
 
 </div>
 
@@ -187,18 +174,9 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 ## ⚔️ Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/Walid-Ysn">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A1A2E" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/walidysn">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1A1A2E" />
-  </a>
-  <a href="https://www.hackerrank.com/Walid_Ysn">
-    <img src="https://img.shields.io/badge/HackerRank-Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1A1A2E" />
-  </a>
-  <a href="https://www.codechef.com/users/walid_ysn">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1A1A2E" />
-  </a>
+  
+  ### Under construction🏗️🚧
+
 </div>
 
 ---
