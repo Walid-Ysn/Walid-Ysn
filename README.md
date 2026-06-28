@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://walid-ysn.github.io">
+  <a href="https://yassine-walid-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/walid-yassine-4a8293226/">
@@ -260,7 +260,7 @@ open_to:
   <a href="https://github.com/Walid-Ysn">
     <img src="https://img.shields.io/badge/GitHub-Walid--Ysn-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://walid-ysn.github.io](https://yassine-walid-portfolio.vercel.app/)">
+  <a href="https://yassine-walid-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-walid--ysn.github.io-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
