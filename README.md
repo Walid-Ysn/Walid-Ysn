@@ -18,7 +18,7 @@
   <a href="https://yassine-walid-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/walid-yassine-4a8293226/">
+    <a href="https://www.linkedin.com/in/yassinewalid0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yassine.walid40@gmail.com">
@@ -165,7 +165,7 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 
 <div align="center">
 
-### Under construction🏗️🚧
+### [View certifications on LinkedIn](https://www.linkedin.com/in/yassinewalid0/)
 
 </div>
 
@@ -197,7 +197,7 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Walid-Ysn&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Walid-Ysn&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub profile trophies" />
 </div>
 
 
@@ -206,7 +206,7 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walid-Ysn&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA&hide_border=true&area=true" />
+    <img src="https://ghchart.rshah.org/Walid-Ysn" alt="GitHub contribution activity" />
 </div>
 
 ---
@@ -254,7 +254,7 @@ open_to:
   <a href="mailto:yassine.walid40@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yassine.walid40-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/walid-yassine-4a8293226/">
+  <a href="https://www.linkedin.com/in/yassinewalid0/">
     <img src="https://img.shields.io/badge/LinkedIn-Walid%20Yassine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Walid-Ysn">
