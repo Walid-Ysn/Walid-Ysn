@@ -146,20 +146,6 @@ Pursuing an engineering degree specializing in Data Science & Artificial Intelli
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🥇 Academic Excellence | Top-performing student in Data Science & AI track at EMSI |
-| 🤖 AI Project Distinction | Fake News Detection app recognized for applied ML innovation |
-| 💻 Full-Stack Delivery | End-to-end banking platform with integrated conversational AI |
-| 🌍 Open Source Contributor | Active contributions and community engagement on GitHub |
-
-</div>
-
----
 
 ## 📜 Certifications
 
